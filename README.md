@@ -5,8 +5,8 @@
 </h1>
 
 ## Hello, I'm [Techwiz](https://instagram.com/techwiz37) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-techwiz.biz.id-blue">](https://techwiz.biz.id)
-[<img src="https://img.shields.io/badge/Email-support@techwiz.biz.id-purple">](mailto:support@techwiz.biz.id)
+[<img src="https://img.shields.io/badge/Website-techwiz.id-blue">](https://techwiz.id)
+[<img src="https://img.shields.io/badge/Email-support@techwiz.id-purple">](mailto:support@techwiz.id)
 <a href="https://www.instagram.com/techwiz37" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/techwiz.id" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![GitHub techwiz37](https://img.shields.io/github/followers/techwiz37?label=follow&style=social)](https://github.com/techwiz37)
