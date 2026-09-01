@@ -91,31 +91,15 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,git,github,gitlab,vscode,figma&perline=10" />
 </p>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=techwiz37&theme=tokyonight&hide_border=true"
-    alt="Techwiz GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/techwiz37">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=techwiz37&theme=tokyo-night&hide_border=true&area=true&custom_title=Techwiz%20-%20GitHub%20Contribution%20Graph"
-      alt="Techwiz GitHub Activity Graph"
-    />
-  </a>
-</p>
-
----
+<div>
+<h2 align="center"> ✨Statistics👨‍💻 </h2>
+</div>
+<div align="center">
+    <img width="625em" src="./github-metrics.svg" />
+</div>
+<br>
+<br>
 
 ## 💻 Development Philosophy
 
